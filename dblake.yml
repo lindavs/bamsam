@@ -1,1 +1,20 @@
 name: Daniel Blake
+location: 'Manassas, VA'
+timezone: UTC-05
+# Be a Mentor
+bam:
+  skills:
+    - 'Physics'
+    - ''
+  languages:
+    - php
+    - bash
+  frameworks/libraries/concepts/api:
+    - aws 
+sam:
+  skills:
+    -
+  languages:
+    - 
+  frameworks/libraries/concepts/api:
+    - 
