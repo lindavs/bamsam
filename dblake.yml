@@ -4,13 +4,13 @@ timezone: UTC-05
 # Be a Mentor
 bam:
   skills:
-    - "Science":
-      - "Physics"
-      - "Arctic Research": ["Sea Ice", "Thermal Surveys", "Resistivity Surveys", "GPR"]
-      - "Astronomy"
-      - "Earth Science"
-      - "Data Processing and Modeling"
-    - "AWS":
+    Science:
+      - "Physics": ["Mechanics", "Electricity and Magnetisim"]
+      - "Arctic Research": ["Sea Ice", "Thermal Surveys", "Resistivity Surveys", "GPR", "Logistics"]
+      - "Astronomy": ["Observational"]
+      - "Earth Science": ["Geology", "Atmospheric", "Geophysics"]
+      - "General": ["Data Processing", "Modeling"]
+    AWS:
       - "EC2": ["Encryption", "Autoscalling", "AIM", "Load Balancers", "EBS"]
       - "S3": ["Buckets", "Versioning", "Encryption", "Storage Classes", "Lifecycles"]
       - "RDS": ["Database Servers", "Aurora", "Aurora Serverless"]
@@ -21,16 +21,15 @@ bam:
       - "VPC": ["Subnets", "Route Tables", "NACLs", "Security Groups", "EIPs", "NAT Gateways"]
       - "CodeDeploy": ["Deployment Groups", "Deployment Applications"]
       - "CloudWatch": ["Custom Metrics", "Custom Log Streams", "Alerts"]
-      - "Archetecting"
-      - "Operations"
-    - "Teaching":
+      - "General": ["Archetecting", "Operations"]
+    Teaching:
       - "Problem Solving": "How to research, critically think, plan, and execute to resolve issues."
       - "Research": "How to find answers to complex problems by utilizing all resources."
       - "Collaboration": "How to work with a diverse group to compliment stengths and bolster weaknesses."
       - "Critical Thinking": "How to approach problems systematically and wholistically."
       - "Logistics": "Coordination of events to create timelines and meet deadlines."
       - "Physics": "Six years experience."
-    - "Whiteboarding, outlining, design, pros/cons, design documents, time estimates, document review"
+      - "Other": "Whiteboarding, outlining, design, pros/cons, design documents, time estimates, document review"
   languages:
     - php
     - bash
@@ -41,17 +40,17 @@ bam:
     - MySQL
 # Seek a Mentor
 sam:
-  skills:
+  Skills:
     - "Bare metal server archetecture"
     - "Collaboration" # BAM and SAM
     - "Security"
   languages:
     - Go
     - Python
-  frameworks/libraries/concepts/api:
-    - NodeJS/React
-    - Docker
-    - Nomad
-    - CI
-    - NoSQL
-    - Caching
+  # "frameworks/libraries/concepts/api":
+  #   - "NodeJS/React"
+  #   - "Docker"
+  #   - "Nomad"
+  #   - "CI"
+  #   - "NoSQL"
+  #   - "Caching"
