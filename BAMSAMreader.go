@@ -8,8 +8,11 @@ import (
 )
 
 type conf struct {
-    BAM string `yaml:"bam"`
-    SAM string `yaml:"sam"`
+    NAME string `yaml:"name"`
+    LOCATION string `yaml:"location"`
+    TIMEZONE string `yaml:"timezone"`
+    // BAM string `yaml:"bam"`
+    // SAM string `yaml:"sam"`
 }
 
 func (c *conf) getConf() *conf {
