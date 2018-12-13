@@ -3,13 +3,13 @@ location: "Manassas, VA"
 timezone: UTC-05
 # Be a Mentor
 bam:
-  skills:
+  Skills:
     Science:
       - "Physics": ["Mechanics", "Electricity and Magnetisim"]
       - "Arctic Research": ["Sea Ice", "Thermal Surveys", "Resistivity Surveys", "GPR", "Logistics"]
       - "Astronomy": ["Observational"]
       - "Earth Science": ["Geology", "Atmospheric", "Geophysics"]
-      - "General": ["Data Processing", "Modeling"]
+      - "General": ["Data Processing", "Modeling", "Electronics"]
     AWS:
       - "EC2": ["Encryption", "Autoscalling", "AIM", "Load Balancers", "EBS"]
       - "S3": ["Buckets", "Versioning", "Encryption", "Storage Classes", "Lifecycles"]
@@ -33,7 +33,8 @@ bam:
   languages:
     - php
     - bash
-  frameworks/libraries/concepts/api:
+    - Arduino
+  "frameworks/libraries/concepts/api":
     - aws cli
     - Drupal
     - Git
@@ -42,15 +43,24 @@ bam:
 sam:
   Skills:
     - "Bare metal server archetecture"
-    - "Collaboration" # BAM and SAM
+    - "Collaboration" # BAM and SAM for sure
     - "Security"
+    - "Tendancy to communicate with team members to passionatly"
+    - "Project mangment"
+    - "SEO, data mining, data analytics"
+    - "Social Media Campainging"
+    - "Speaking Vietnameese"
   languages:
     - Go
     - Python
-  # "frameworks/libraries/concepts/api":
-  #   - "NodeJS/React"
-  #   - "Docker"
-  #   - "Nomad"
-  #   - "CI"
-  #   - "NoSQL"
-  #   - "Caching"
+    - JavaScript
+    - Ruby
+    - Rust
+  "frameworks/libraries/concepts/api":
+    - "NodeJS/React"
+    - "Docker"
+    - "Nomad"
+    - "CI"
+    - "NoSQL"
+    - "Caching"
+    - "YAML"
