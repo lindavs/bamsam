@@ -5,16 +5,28 @@ timezone: UTC-05
 bam:
   skills:
     - 'Physics'
-    - ''
+    - 'AWS'
+    - 'Problem solving, research, critial thinking, logistics'
+    - 'The importance of collaboration'
+    - 'Whiteboarding, outlining, design, pros/cons'
   languages:
     - php
     - bash
   frameworks/libraries/concepts/api:
-    - aws 
+    - aws cli
+    - Drupal
+    - Git
+# Seek a Mentor
 sam:
   skills:
-    -
+    - 'Bare metal server archetecture'
+    - 'Collaboration' # BAM and SAM
+    - 'Security'
   languages:
-    - 
+    - Go
+    - Python
   frameworks/libraries/concepts/api:
-    - 
+    - NodeJS/React
+    - Docker
+    - Nomad
+    - CI
