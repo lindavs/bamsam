@@ -54,5 +54,7 @@ func main() {
   fmt.Println(c.BAM)
   fmt.Println(c)
   fmt.Println()
-  fmt.Println(c.BAM.SKILLS.AWS)
+  for _, value := range c.BAM.SKILLS.AWS {
+    fmt.Println(value)
+  }
 }
