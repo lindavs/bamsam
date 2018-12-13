@@ -16,6 +16,7 @@ bam:
     - aws cli
     - Drupal
     - Git
+    - MySQL
 # Seek a Mentor
 sam:
   skills:
