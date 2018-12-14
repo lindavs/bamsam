@@ -56,8 +56,10 @@ sam:
     - Ruby
     - Rust
   "frameworks/libraries/concepts/api":
+    - "Drone"
     - "NodeJS/React"
     - "Docker"
+    - "Kubernetes"
     - "Nomad"
     - "CI"
     - "NoSQL"
