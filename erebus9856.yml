@@ -31,7 +31,7 @@ bam:
     - bash
     - Arduino
   "frameworks/libraries/concepts/api":
-    - aws cli
+    - AWS cli
     - Drupal
     - Git
     - MySQL
@@ -41,7 +41,7 @@ sam:
     - "Bare metal server architecture"
     - "Collaborating with individuals with similar/strong personalities"
     - "Network/internet/application/hardware security"
-    - "Tendency to communicate with team members to passionately"
+    - "Tendency to communicate with team members too passionately"
     - "Project management"
     - "Agile development"
     - "SEO, data mining, data analytics"
