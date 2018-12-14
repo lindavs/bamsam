@@ -39,14 +39,16 @@ bam:
 sam:
   Skills:
     - "Bare metal server archetecture"
-    - "Collaboration" # BAM and SAM for sure
-    - "Security"
+    - "Collaborating with individuals with similar/strong personalities"
+    - "Network/internet/application/hardware security"
     - "Tendancy to communicate with team members to passionatly"
     - "Project mangment"
+    - "Agile development"
     - "SEO, data mining, data analytics"
     - "Social Media Campainging"
     - "Speaking Vietnameese"
-    - "Agile development"
+    - "App development"
+    - "No deep expertise in any one language or framework" # I stole this, but its true
   languages:
     - Go
     - Python

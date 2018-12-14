@@ -30,7 +30,7 @@ type conf struct {
 }
 
 func (c *conf) getConf() *conf {
-  yamlFile, err := ioutil.ReadFile("dblake.yml")
+  yamlFile, err := ioutil.ReadFile("erebus9856.yml")
   // yamlFile, err := ioutil.ReadFile("tmp.yml")
   if err != nil {
       log.Printf("yamlFile.Get err   #%v ", err)
