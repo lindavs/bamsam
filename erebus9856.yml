@@ -4,23 +4,13 @@ timezone: UTC-05
 # Be a Mentor
 bam:
   Skills:
-    Science:
-      - "Physics": ["Mechanics", "Electricity and Magnetisim"]
-      - "Arctic Research": ["Sea Ice", "Thermal Surveys", "Resistivity Surveys", "GPR", "Logistics"]
-      - "Astronomy": ["Observational"]
-      - "Earth Science": ["Geology", "Atmospheric", "Geophysics"]
-      - "General": ["Data Processing", "Modeling", "Electronics"]
     AWS:
-      - "EC2": ["Encryption", "Autoscalling", "AIM", "Load Balancers", "EBS"]
+      - "EC2": ["Instance Sizeing", "Encryption", "Autoscalling", "AIM", "Load Balancers", "EBS"]
       - "S3": ["Buckets", "Versioning", "Encryption", "Storage Classes", "Lifecycles"]
       - "RDS": ["Database Servers", "Aurora", "Aurora Serverless"]
-      - "IAM": ["Users", "Groups", "Roles", "Policies"]
-      - "Route 53": ["Hosted Zones", "Alias Records", "Routing Policies"]
-      - "KMS": ["Customer Managed Keys", "Auto-rotation"]
-      - "SNS": ["Topics", "Subscriptions"]
       - "VPC": ["Subnets", "Route Tables", "NACLs", "Security Groups", "EIPs", "NAT Gateways"]
-      - "CodeDeploy": ["Deployment Groups", "Deployment Applications"]
-      - "CloudWatch": ["Custom Metrics", "Custom Log Streams", "Alerts"]
+      - "IAM": ["Users", "Groups", "Roles", "Policies"]
+      - "Other Services": ["Route 53", "KMS", "SNS", "CodeDeploy", "CloudWatch"]
       - "General": ["Archetecting", "Operations"]
     Teaching:
       - "Problem Solving": "How to research, critically think, plan, and execute to resolve issues."
@@ -30,6 +20,12 @@ bam:
       - "Logistics": "Coordination of events to create timelines and meet deadlines."
       - "Physics": "Six years experience."
       - "Other": "Whiteboarding, outlining, design, pros/cons, design documents, time estimates, document review"
+    Science:
+      - "Physics": ["Mechanics", "Electricity and Magnetisim"]
+      - "Arctic Research": ["Sea Ice", "Thermal Surveys", "Resistivity Surveys", "GPR", "Logistics"]
+      - "Astronomy": ["Observational"]
+      - "Earth Science": ["Geology", "Atmospheric", "Geophysics"]
+      - "General": ["Data Processing", "Modeling", "Electronics"]
   languages:
     - php
     - bash
@@ -50,6 +46,7 @@ sam:
     - "SEO, data mining, data analytics"
     - "Social Media Campainging"
     - "Speaking Vietnameese"
+    - "Agile development"
   languages:
     - Go
     - Python
